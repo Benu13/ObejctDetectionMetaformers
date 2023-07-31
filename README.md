@@ -15,4 +15,7 @@ case of future test on semi-supervised lerning.
   <img src="https://github.com/Benu13/ObejctDetectionMetaformers/assets/39136856/d0bfaac9-eb05-4517-b9bd-40194134125a" />
 </p>
 
+# YoloV8 
+YoloV8 was implemented using Ultralytics package. For this version coordinates need to be normalized. Model was implemented with the help of tutorial[2].
 [1]. Kaggle Competition - https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature/
+[2]. Kaggle user: Mersico - https://www.kaggle.com/code/mersico/medical-instance-segmentation-with-yolov8
