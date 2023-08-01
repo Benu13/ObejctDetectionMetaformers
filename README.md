@@ -19,7 +19,7 @@ case of future test on semi-supervised lerning.
 YoloV8 was implemented using Ultralytics package. For this version coordinates need to be normalized. Model was implemented with the help of tutorial[2].
 
 # Unet
-Tests on classic Unet and Unet++ with segmentation_model_pytorch package [3].  
+Tests on Unet++ with segmentation_model_pytorch package [3].  
 
 # Metaformers on segmentation
 Tests on using MetaFormers for segmentation. 
