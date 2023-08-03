@@ -33,6 +33,8 @@ MetaFormer backbone based models use MetaPolyp[5] Convformer block after each en
 </p>
 
 ## C2F
+## Head
+
 ## Model 1
 Model 1 architecture:
 ![CF_V1](https://github.com/Benu13/ObejctDetectionMetaformers/assets/39136856/ce385cd3-32d3-4a43-a127-f68b51e5ec9b)
