@@ -1,5 +1,5 @@
 # ObejctDetectionMetaformers
-Small project on MetaFormers usage for object detection. Learning object detection and segmentation. 
+Small project on MetaFormers usage for object detection. Learning object detection and segmentation by trying to connect MetaFormer backbone to YOLOv8 head. 
 # Dataset
 Data used in this project comes from Kaggle competition "HuBMAP - Hacking the Human Vasculature"[1].
 For further tests two types of datasets where created. First one was COCO style dataset, used for object detection with YoloV8 and Final "YoloFormer". 
