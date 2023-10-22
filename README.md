@@ -3,7 +3,7 @@ Small project on MetaFormers usage for object detection. Learning object detecti
 # Dataset
 Data used in this project comes from Kaggle competition "HuBMAP - Hacking the Human Vasculature"[1].
 For further tests two types of datasets where created. First one was COCO style dataset, used for object detection with YoloV8 and Final "YoloFormer". 
-The structure of said dataset present as: 
+The structure of said dataset present as:   
 ![image](https://github.com/Benu13/ObejctDetectionMetaformers/assets/39136856/a0b9d589-ac57-4b1a-ade9-c777ccce2a25)
   
   
